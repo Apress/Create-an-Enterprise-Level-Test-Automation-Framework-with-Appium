@@ -1,0 +1,3 @@
+#! /bin/bash
+cd ~/Downloads/testautomation/appautomation
+chmod u+x xxxx.txt

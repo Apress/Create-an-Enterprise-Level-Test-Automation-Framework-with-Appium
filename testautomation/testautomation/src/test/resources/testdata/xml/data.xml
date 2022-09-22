@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Test Data for Test Engineer to Architect -->
+
+<resources>
+	<!-- Data -->
+	<string name="datatype1">Data1</string>
+	<string name="datatype2">Data2</string>
+	<string name="datatype3">Data3</string>
+	<string name="datatype4">Data4</string>
+	<string name="datatype5">Data5</string>
+	<string name="datatype6">Data6</string>
+	<string name="datatype7">Data7</string>
+	<string name="datatype8">Data8</string>
+	<string name="datatype9">Data9</string>
+	<string name="datatype10">Data10</string>
+
+</resources>

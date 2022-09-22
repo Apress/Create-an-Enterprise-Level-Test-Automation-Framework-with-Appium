@@ -1,0 +1,14 @@
+
+/* Test Data for Test Engineer to Architect */
+/* Data */
+"datatype1" = "Data1";
+"datatype2" = "Data2";
+"datatype3" = "Data3";
+"datatype4" = "Data4";
+"datatype5" = "Data5";
+"datatype6" = "Data6";
+"datatype7" = "Data7";
+"datatype8" = "Data8";
+"datatype9" = "Data9";
+"datatype10" = "Data10";
+

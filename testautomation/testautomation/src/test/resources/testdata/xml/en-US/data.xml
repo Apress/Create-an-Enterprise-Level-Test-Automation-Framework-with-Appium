@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Localization text for Test Engineer to Architect -->
+
+<resources>
+	<!-- Text -->
+	<string name="copyrighttext">Data1</string>
+	<string name="appdescstrng1">Data2</string>
+	<string name="appdescstrng2">Data3</string>
+</resources>

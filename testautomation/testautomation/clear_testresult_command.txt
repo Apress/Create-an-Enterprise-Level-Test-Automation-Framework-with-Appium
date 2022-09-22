@@ -1,0 +1,5 @@
+#! /bin/bash
+cd ~/Downloads/testautomation/appautomation/test-result/pdfreport
+rm -rf *.pdf
+cd ~/Downloads/testautomation/appautomation/test-result/screenshots
+rm -rf *.png

@@ -1,0 +1,7 @@
+
+/* Localization text for Test Engineer to Architect */
+/* Text */
+"copyrighttext" = "Data1";
+"appdescstrng1" = "Data2";
+"appdescstrng2" = "Data3";
+

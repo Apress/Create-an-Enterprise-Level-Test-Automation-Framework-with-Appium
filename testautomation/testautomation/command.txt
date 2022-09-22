@@ -1,0 +1,4 @@
+#! /bin/bash
+cd ~
+lsof -t -i tcp:4723 | xargs kill -9
+lsof -t -i tcp:8100 | xargs kill -9

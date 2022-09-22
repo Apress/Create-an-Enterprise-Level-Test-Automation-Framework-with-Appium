@@ -1,0 +1,5 @@
+#! /bin/bash
+cd ~/Downloads/testautomation/appautomation
+rm devicelog_android.txt
+cd ~
+./adb shell logcat -t 5000 > Downloads/testautomation/appautomation/devicelog_android.txt
